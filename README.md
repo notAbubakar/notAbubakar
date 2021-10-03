@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Android & Kotlin projects
-- 📫 How to reach me : @zeroaimbucks on Telegram
+- 📫 How to reach me : @thelazycompiler on Telegram
 
 <!---
 notAbubakar/notAbubakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
